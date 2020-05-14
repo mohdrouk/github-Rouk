@@ -15,3 +15,5 @@ DSND Project 1 - Stack Overflow data, Notebook for analysis
 
 Analysis Insights report:
 report summarizing the insights from my analysis
+Link to Blog post:
+https://medium.com/@mohammadalsayedrouk/education-experience-gender-effects-on-your-career-cf48f075d55d
